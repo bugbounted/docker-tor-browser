@@ -1,5 +1,9 @@
 # Tor browser
 
+<a href="https://heroku.com/deploy?template=https://github.com/bugbounted/docker-tor-browser">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 ![](https://github.com/DomiStyle/docker-tor-browser/raw/master/screenshot.png)
 *Tor browser running inside of Firefox*
 
